@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": 1673541871693,
+      "name": "Chanmin Thu",
+      "email": "chanminthu@gmail.com",
+      "phone": "09200300478",
+      "address": "Mandalay"
+    },
+    {
+      "id": 1673541975163,
+      "name": "Aung Aung",
+      "email": "aung@gmail.com",
+      "phone": "09800400200",
+      "address": "Paris"
+    }
+  ]
+}
